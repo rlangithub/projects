@@ -1,0 +1,23 @@
+[
+    {
+        "id":"325956134",
+        "password":"OsherAd3256"  ,
+        "logo":"./pictures/OsherAd.png",
+        "name": "אושר עד"
+    }, {
+        "id":"326021417",
+        "password":"Shopersal3260" ,
+        "logo":"./pictures/Shupersal.png",
+        "name": "שופרסל"
+    }, {
+        "id":"025124819",
+        "password":"ShariRevacha0251" ,
+        "logo":"./pictures/ShareyRevacha.jpg",
+        "name": "שערי רווחה" 
+    }, {
+        "id":"032414260",
+        "password":"RamiLevi0324" ,
+        "logo":"./pictures/RAMILEVI.png",
+        "name": "רמי לוי"
+    }
+]

@@ -1,0 +1,1 @@
+aboutPage.classList.add('TopBorder');

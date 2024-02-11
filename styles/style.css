@@ -1,0 +1,224 @@
+body>* {
+    font-family: assistant, calibri;
+}
+body{
+    direction: rtl;
+    overflow-y:auto;
+}
+.directionRtl{
+    direction: ltr;
+}
+.icon{
+    font-size: 15px;
+}
+.width50px{
+    height: 50px;
+    width: 50px;
+}
+.width150px{
+    width: 150px;
+}
+.width200px{
+    width: 200px;
+}
+.width300px{
+    width: 300px;
+}
+.width450px{
+    width: 450px;
+}
+.width500px{
+    width: 500px;
+}
+.width30{
+    width: 30%;
+}
+.width45{
+    width: 45%;
+}
+.width50{
+    width: 50%;
+}
+.width60{
+    width: 60%;
+}
+.width75{
+    width: 75%;
+}
+.width80{
+    width: 75%;
+}
+.width100{
+    width: 100%;
+}
+.w-100{
+    width: 400px!important;
+    margin: auto;
+}
+.height30px{
+    height: 30px;
+}
+.height500px{
+    height: 500px;
+} 
+.height50{
+    height: 50%;
+}
+.height89vh{
+    height: 89vh;
+}
+.height80vh{
+    height: 80vh; 
+    /* height: max-content;  */
+}
+.height90{
+    height: 90%;
+}
+.backgroundOverGray{
+    background-image: linear-gradient( to left, rgba(0,0,0,0.815),rgba(0,0,0,0));
+}
+.hoverBlue:hover {
+    background-color:rgba(81, 122, 211, 0.39);
+}
+.white{
+    color: white;
+}
+.backgroundWhite{
+    background-color: white;
+}
+.beckgruondWeakRed{
+    background-color: rgba(190, 116, 116, 0.39);
+}
+.blue{
+    color: #fff;
+    background-color: #337ab7;
+}
+.textBlue{
+    color: rgb(34, 34, 122);
+}
+.textRed{
+    color:  rgb(112, 4, 4);
+}
+.textWeekGrey{
+    color: grey;
+}
+.borderRed{
+    border: 1px solid red;
+    border-radius: 19px;
+}
+.borderBlack{
+    border: 8px rgb(71, 71, 71) solid;
+    border-radius: 15px;
+}
+.sideBorder{
+    border-right: 2.5px rgb(112, 4, 4) solid;
+    line-height: .9;
+}
+.TopBorder{
+    border-top: 2.5px rgb(112, 4, 4) solid;
+}
+.Border{
+    border:2px rgb(112, 4, 4) solid;
+}
+.borderRedRadus{
+    border-radius: 10px;
+}
+.borderBottomSadow{
+    box-shadow: 0px 0px 10px 0px rgb(172, 170, 170) ; 
+}
+.scroll{
+    overflow: scroll;
+}
+.displayNone{
+    display: none;
+}
+.flex{
+    display: flex;
+}
+.warp{
+    flex-wrap: wrap;
+}
+.space-around{
+    justify-content: space-around;
+}
+.align-center{
+    align-items: center;
+}
+.align-end{
+    align-items: end;
+}
+.align-start{
+    align-items: flex-start;
+    
+}
+.alignBaseline{
+    align-items: baseline;
+}
+.text-center{
+    text-align: center;
+}
+.aline-contect{
+    align-content: center;
+}
+.directionColumn{
+    flex-direction: column;
+}
+.directionRowReverse{
+    flex-direction: row-reverse;
+}
+.justify-content-end{
+    justify-content: end;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justifyContentSpaceBetween{
+    justify-content:space-between;
+}
+.marginAuto{
+    margin: auto;
+}
+.margimBottom{
+    margin-bottom: 63vh;
+}
+.marginTop30px{
+    margin-top: 30px;
+}
+.margimBottom-9vh{
+    margin-bottom: -9vh;
+}
+.marginRight70px{
+    margin-right: 70px
+}
+.marginLeft8{
+    margin-left: 8%;
+}
+.marginLeft1{
+    margin-left: 1%;
+}
+.title{
+    font-size:30px;
+    color: rgb(34, 34, 122);
+    margin-top: 50px;
+    padding-right: 2%;
+}
+.font100{
+    font-size: 100px;
+}
+.font170{
+    font-size: 170px; 
+}
+.font20px{
+    font-size: 20px;
+}
+.font22px{
+    font-size: 22px;
+}
+.font65px{
+    font-size: 65px;
+}
+#navManeger{
+    height: 50px;
+}
+
+

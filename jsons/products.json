@@ -1,0 +1,271 @@
+[{
+    "nameProduct": "חלב",
+    "code": "0000",
+    "maxPrice": 7,
+    "img":"./pictures/milk.png"
+},{
+    "nameProduct": "גבינה צהובה 32%",
+    "code": "0001",
+    "maxPrice": 40,
+    "img":"./pictures/yellow-cheese.png"
+},{
+    "nameProduct": "גבינה מותכת-משולשים",
+    "code": "0002",
+    "maxPrice": 30,
+    "img":"./pictures/melted-triange-cheese.png"
+},{
+    "nameProduct": "פיראוס",
+    "code": "0003",
+    "maxPrice": 28,
+    "img":"./pictures/piraeus.png"
+},{
+    "nameProduct": "גבינת חלומי",
+    "code": "0004",
+    "maxPrice": 20,
+    "img":"./pictures/hallomi-cheese.png"
+},{
+    "nameProduct": "גבינה לבנה 5%",
+    "code": "0005",
+    "maxPrice": 7,
+    "img":"./pictures/cream-cheese.png"
+},{
+    "nameProduct": "גבינת קוטג' 5%",
+    "code": "0006",
+    "maxPrice": 8,
+    "img":"./pictures/cottage'.png"
+},{
+    "nameProduct": "יוגורט ",
+    "code": "0007",
+    "maxPrice": 2,
+    "img":"./pictures/yogurt.png"
+},{
+    "nameProduct": "בקבוק שוקו גדול",
+    "code": "0008",
+    "maxPrice": 15,
+    "img":"./pictures/shoko.png"
+},{
+    "nameProduct": "בקבוק מוקה גדול",
+    "code": "0009",
+    "maxPrice": 15,
+    "img":"./pictures/moka.png"
+},{
+    "nameProduct": "עגבניות",
+    "code": "1000",
+    "maxPrice": 8,
+    "img":"./pictures/tomato.png"
+},{
+    "nameProduct": "מלפפונים",
+    "code": "1001",
+    "maxPrice": 6,
+    "img":"./pictures/cucumber.png"
+},{
+    "nameProduct": "פלפל אדום",
+    "code": "1002",
+    "maxPrice": 13,
+    "img":"./pictures/red-papper.png"
+},{
+    "nameProduct": "קולורבי",
+    "code": "1003",
+    "maxPrice": 7,
+    "img":"./pictures/kolorbi.png"
+},{
+    "nameProduct": "קישואים",
+    "code": "1004",
+    "maxPrice": 9,
+    "img":"./pictures/squash.png"
+},{
+    "nameProduct": "חצילים",
+    "code": "1005",
+    "maxPrice": 11,
+    "img":"./pictures/eggplant.png"
+},{
+    "nameProduct":"בצל",
+    "code": "1006",
+    "maxPrice": 6,
+    "img":"./pictures/onion.png"
+},{
+    "nameProduct": "תפוח אדמה אדום",
+    "code": "1007",
+    "maxPrice": 6,
+    "img":"./pictures/potatoe.png"
+},{
+    "nameProduct": "גזר",
+    "code": "1008",
+    "maxPrice": 13,
+    "img":"./pictures/carrot.png"
+},{
+    "nameProduct": "חסה",
+    "code": "1009",
+    "maxPrice": 8,
+    "img":"./pictures/milk.png"
+},{
+    "nameProduct": "אבטיח",
+    "code": "1100",
+    "maxPrice": 5 ,
+    "img":"./pictures/watermelon.png"
+},{
+    "nameProduct": "מלון",
+    "code": "1101",
+    "maxPrice": 6,
+    "img":"./pictures/melon.png" 
+},{
+    "nameProduct": "תפוח אדום",
+    "code": "1102",
+    "maxPrice": 10 ,
+    "img":"./pictures/red-apple.png"
+},{
+    "nameProduct": "תפוח ירוק",
+    "code": "1103",
+    "maxPrice": 10 ,
+    "img":"./pictures/green-apple.png"
+},{
+    "nameProduct": "אגס",
+    "code": "1104",
+    "maxPrice": 13 ,
+    "img":"./pictures/pear.png"
+},{
+    "nameProduct": "אפרסק",
+    "code": "1105",
+    "maxPrice": 20,
+    "img":"./pictures/peach.png"
+},{
+    "nameProduct": "שזיף",
+    "code": "1106",
+    "maxPrice": 25 ,
+    "img":"./pictures/plum.png"
+},{
+    "nameProduct": "מנגו",
+    "code": "1107",
+    "maxPrice": 25,
+    "img":"./pictures/mango.png" 
+},{
+    "nameProduct": "ענבים",
+    "code": "1108",
+    "maxPrice": 40 ,
+    "img":"./pictures/grapes.png"
+},{
+    "nameProduct": "נקטרינה",
+    "code": "1109",
+    "maxPrice": 20 ,
+    "img":"./pictures/nectarine.png"
+},{
+    "nameProduct": "אקנומיקה",
+    "code": "2000",
+    "maxPrice": 30 ,
+    "img":"./pictures/bleach.png" 
+},{
+    "nameProduct": "סנטמוריץ",
+    "code": "2001",
+    "maxPrice": 20 ,
+    "img":"./pictures/sentmoritz.png" 
+},{
+    "nameProduct": "ריצפז",
+    "code": "2002",
+    "maxPrice": 30 ,
+    "img":"./pictures/ritzpaz.png" 
+},{
+    "nameProduct": "מרכך כביסה-בדין",
+    "code": "2003",
+    "maxPrice": 20 ,
+    "img":"./pictures/bdin.png" 
+},{
+    "nameProduct": "אבקת כביסה",
+    "code": "2004",
+    "maxPrice": 80 ,
+    "img":"./pictures/ariel.png" 
+},{
+    "nameProduct": "סבון גוף",
+    "code": "2005",
+    "maxPrice": 17  ,
+    "img":"./pictures/soap.png"
+},{
+    "nameProduct": "שמפו",
+    "code": "2006",
+    "maxPrice": 17 ,
+    "img":"./pictures/shmpoo.png"
+},{
+    "nameProduct": "אמה לכלים",
+    "code": "2007",
+    "maxPrice": 20 ,
+    "img":"./pictures/fairy.png"
+},{
+    "nameProduct": "כפפות חד פעמיות",
+    "code": "2008",
+    "maxPrice": 15,
+    "img":"./pictures/gloves.png"
+},{
+    "nameProduct": "טישו",
+    "code": "2009",
+    "maxPrice": 10,
+    "img":"./pictures/tisho.png"
+},{
+    "nameProduct": "קולה",
+    "code": "3000",
+    "maxPrice": 50,
+    "img":"./pictures/kola.png"
+},{
+    "nameProduct": "תות בננה",
+    "code": "3001",
+    "maxPrice": 12,
+    "img":"./pictures/banana-strawberry.png"
+},{
+    "nameProduct": "מיץ תפוזים",
+    "code": "3002",
+    "maxPrice": 8,
+    "img":"./pictures/orange-juice.png"
+},{
+    "nameProduct": "מיץ תפוחים-תרכיז",
+    "code": "3003",
+    "maxPrice": 30,
+    "img":"./pictures/appie-juice.png"
+},{
+    "nameProduct": "סודה",
+    "code": "3004",
+    "maxPrice": 15,
+    "img":"./pictures/soda.png"
+},{
+    "nameProduct": "שישית מי עדן",
+    "code": "3005",
+    "maxPrice": 15,
+    "img":"./pictures/water.png"
+},{
+    "nameProduct":"מיץ אשכוליות",
+    "code": "3006",
+    "maxPrice": 15,
+    "img":"./pictures/grapefruit-juice.png"
+},{
+    "nameProduct": "ספרינג tea",
+    "code": "3007",
+    "maxPrice": 13,
+    "img":"./pictures/fuzetea.png"
+},{
+    "nameProduct": "אלוורה",
+    "code": "3008",
+    "maxPrice": 19,
+    "img":"./pictures/alovera-juice.png"
+},{
+    "nameProduct": "קולה דיאט",
+    "code": "3009",
+    "maxPrice": 60,
+    "img":"./pictures/kola-zero.png"
+},{
+    "nameProduct": "יי'ן טפרברג",
+    "code": "3100",
+    "maxPrice": 80,
+    "img":"./pictures/wine3.png"
+},{
+    "nameProduct": "יי'ן מתוק-קליל",
+    "code": "3101",
+    "maxPrice": 30,
+    "img":"./pictures/wine2.png"
+},{
+    "nameProduct": "בירה",
+    "code": "3102",
+    "maxPrice": 12,
+    "img":"./pictures/beer.png"
+},{
+    "nameProduct": "היוצר",
+    "code": "3103",
+    "maxPrice": 70,
+    "img":"./pictures/wine1.png"
+}]

@@ -1,0 +1,40 @@
+#navBottom{
+    width: 100%;    
+}
+#navBottomBig{
+    height: 50vh;
+}
+.icon {
+    font-size: 15px;
+}
+.font-size{
+    font-size: 27px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: initial;
+    line-height: 25px;
+}
+#containerBottom{
+    margin-top: 100px;
+}
+h2{
+    margin-bottom: 30px;
+}
+#smallContainerBottom>li{
+    font-size: 22px;
+    font-weight: 400;
+}
+.border-radius{
+    border: #05386B solid 2px;
+    border-radius: 25px;
+}
+
+.up{
+    scroll-behavior:smooth; 
+}
+#ulNavTop{
+    margin-top: -8px;
+}
